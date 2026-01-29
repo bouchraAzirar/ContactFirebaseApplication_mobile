@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Contact_firebase</string>
+    <string name="rechercher_un_contact">Rechercher un contact</string>
+    <string name="todo">TODO</string>
+    <string name="nom">Nom</string>
+    <string name="t_l_phone">Téléphone</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="ajouter_un_contact">Ajouter un contact</string>
+    <string name="telephone">Téléphone</string>
+    <string name="Nom">Nom</string>
+    <string name="add">AJOUTER</string>
+    <string name="contacts">Contacts</string>
+    <string name="Name">Nom</string>
+    <string name="Phone">Téléphone</string>
+</resources>
